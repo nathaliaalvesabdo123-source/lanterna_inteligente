@@ -1,0 +1,1 @@
+Foi implementado o Modo Automático com temporizador de 15 segundos. Ao ativar o switch, a lanterna liga automaticamente e uma contagem regressiva é exibida em tempo real na interface. Ao final, a lanterna desliga sozinha e o modo é desativado. Durante esse período, o botão manual fica bloqueado para evitar conflitos.
